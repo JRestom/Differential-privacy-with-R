@@ -1,0 +1,5 @@
+-https://rdrr.io/cran/diffpriv/man/diffpriv.html
+-https://simons.berkeley.edu/sites/default/files/docs/1087/ligettslides.pdf
+-https://en.wikipedia.org/wiki/Additive_noise_mechanisms
+-https://www.johndcook.com/blog/2017/09/20/adding-laplace-or-gaussian-noise-to-database/
+-https://theory.stanford.edu/~korolova/Privacy_violations_using_microtargeted_ads.pdf
